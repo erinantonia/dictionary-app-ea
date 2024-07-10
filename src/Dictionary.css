@@ -1,0 +1,18 @@
+.Dictionary {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.Dictionary section {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.Dictionary input {
+  width: 100%;
+  border: 1px solid #c6c7c8;
+  border-radius: 5px;
+  padding: 10px;
+}
