@@ -1,0 +1,10 @@
+.Photos img {
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.Photos h2 {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
