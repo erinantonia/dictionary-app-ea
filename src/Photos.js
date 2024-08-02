@@ -13,7 +13,7 @@ export default function Photos(props) {
                 <img
                   src={photo.src.landscape}
                   className="img-fluid"
-                  alt="photo gallery of searched word"
+                  alt="dictionary app gallery"
                 />
               </div>
             );
